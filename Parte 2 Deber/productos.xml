@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+  <producto>
+    <id>41</id>
+    <nombre>Tiza Blanca Caja x100</nombre>
+    <precio_compra>1.50</precio_compra>
+    <categoria>Escritura</categoria>
+    <stock>180</stock>
+    <proveedor>Norma Ecuador</proveedor>
+    <precio_venta_publico>3.00</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>42</id>
+    <nombre>Papelógrafo Cuadriculado x50</nombre>
+    <precio_compra>2.80</precio_compra>
+    <categoria>Papel</categoria>
+    <stock>130</stock>
+    <proveedor>PapelPro Cía. Ltda.</proveedor>
+    <precio_venta_publico>5.20</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>43</id>
+    <nombre>Organizador de Escritorio Plástico</nombre>
+    <precio_compra>3.60</precio_compra>
+    <categoria>Organización</categoria>
+    <stock>65</stock>
+    <proveedor>OfficeMax Ecuador</proveedor>
+    <precio_venta_publico>6.80</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>44</id>
+    <nombre>Cuaderno Cosido 50 hojas</nombre>
+    <precio_compra>0.90</precio_compra>
+    <categoria>Cuadernos</categoria>
+    <stock>texto</stock>
+    <proveedor>Norma Ecuador</proveedor>
+    <precio_venta_publico>1.80</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>45</id>
+    <nombre>Cartulina de Colores x10</nombre>
+    <precio_compra>0.70</precio_compra>
+    <categoria>Papel</categoria>
+    <stock>320</stock>
+    <proveedor>PapelPro Cía. Ltda.</proveedor>
+    <precio_venta_publico>1.40</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>46</id>
+    <nombre>Borrador Nata Pelikan</nombre>
+    <precio_compra>N/A</precio_compra>
+    <categoria>Escritura</categoria>
+    <stock>670</stock>
+    <proveedor>DistribuPapel S.A.</proveedor>
+    <precio_venta_publico>0.60</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>47</id>
+    <nombre>Mochila Escolar Mediana</nombre>
+    <precio_compra>12.50</precio_compra>
+    <categoria>Accesorios</categoria>
+    <stock>50</stock>
+    <proveedor></proveedor>
+    <precio_venta_publico>24.00</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>48</id>
+    <nombre>Plumones Lavables x10</nombre>
+    <precio_compra>1.80</precio_compra>
+    <categoria>Manualidades</categoria>
+    <stock>275</stock>
+    <proveedor>Norma Ecuador</proveedor>
+    <precio_venta_publico>3.50</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>49</id>
+    <nombre>Cuaderno Universitario Cuadriculado</nombre>
+    <precio_compra>1.80</precio_compra>
+    <categoria>Cuadernos</categoria>
+    <stock>190</stock>
+    <proveedor>Norma Ecuador</proveedor>
+    <precio_venta_publico>error</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>50</id>
+    <nombre>Tijeras para Zurdo 21cm</nombre>
+    <precio_compra>1.40</precio_compra>
+    <categoria>Manualidades</categoria>
+    <stock>80</stock>
+    <proveedor>OfficeMax Ecuador</proveedor>
+    <precio_venta_publico>2.70</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>51</id>
+    <nombre>Resaltador Verde 4mm</nombre>
+    <precio_compra>0.55</precio_compra>
+    <categoria>Escritura</categoria>
+    <stock>360</stock>
+    <proveedor>DistribuPapel S.A.</proveedor>
+    <precio_venta_publico>1.10</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>52</id>
+    <nombre>Libro de Actas 100 hojas</nombre>
+    <precio_compra>4.20</precio_compra>
+    <categoria>Cuadernos</categoria>
+    <stock>45</stock>
+    <proveedor>PapelPro Cía. Ltda.</proveedor>
+    <precio_venta_publico>7.90</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>53</id>
+    <nombre>Dispensador de Cinta Escritorio</nombre>
+    <precio_compra></precio_compra>
+    <categoria>Organización</categoria>
+    <stock>95</stock>
+    <proveedor>OfficeMax Ecuador</proveedor>
+    <precio_venta_publico>3.80</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>54</id>
+    <nombre>Funda Plástica A4 Transparente x100</nombre>
+    <precio_compra>2.90</precio_compra>
+    <categoria>Archivo</categoria>
+    <stock>140</stock>
+    <proveedor>PapelPro Cía. Ltda.</proveedor>
+    <precio_venta_publico>5.50</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>55</id>
+    <nombre>Bolígrafo BIC Azul</nombre>
+    <precio_compra>0.35</precio_compra>
+    <categoria>Escritura</categoria>
+    <stock>500</stock>
+    <proveedor>DistribuPapel S.A.</proveedor>
+    <precio_venta_publico>0.75</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>56</id>
+    <nombre>Transportador 180° Plástico</nombre>
+    <precio_compra>0.40</precio_compra>
+    <categoria>Geometría</categoria>
+    <stock>310</stock>
+    <proveedor>Norma Ecuador</proveedor>
+    <precio_venta_publico>0.85</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>57</id>
+    <nombre>Cartón Corrugado 50x70cm</nombre>
+    <precio_compra>0.80</precio_compra>
+    <categoria>Manualidades</categoria>
+    <stock>-15</stock>
+    <proveedor>PapelPro Cía. Ltda.</proveedor>
+    <precio_venta_publico>1.60</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>58</id>
+    <nombre>Separadores de Colores x5</nombre>
+    <precio_compra>0.65</precio_compra>
+    <categoria>Archivo</categoria>
+    <stock>420</stock>
+    <proveedor>DistribuPapel S.A.</proveedor>
+    <precio_venta_publico>1.25</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>59</id>
+    <nombre>Marcador Acrílico Blanco</nombre>
+    <precio_compra>1.30</precio_compra>
+    <categoria>Manualidades</categoria>
+    <stock>115</stock>
+    <proveedor>OfficeMax Ecuador</proveedor>
+    <precio_venta_publico>2.50</precio_venta_publico>
+  </producto>
+  <producto>
+    <id>60</id>
+    <nombre>Cuaderno Espiral A4 160 hojas</nombre>
+    <precio_compra>2.60</precio_compra>
+    <categoria>Cuadernos</categoria>
+    <stock>155</stock>
+    <proveedor>Norma Ecuador</proveedor>
+    <precio_venta_publico>4.90</precio_venta_publico>
+  </producto>
+</productos>
