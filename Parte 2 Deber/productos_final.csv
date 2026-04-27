@@ -1,0 +1,61 @@
+id,nombre,precio_compra,categoria,stock,proveedor,precio_venta_publico
+1,Bolígrafo BIC Azul,0.35000000000000003,Escritura,500.0,DistribuPapel S.A.,0.75
+2,Cuaderno Universitario 100 hojas,1.8,Cuadernos,300.0,Norma Ecuador,3.5
+3,Lápiz HB Faber-Castell,0.2,Escritura,800.0,DistribuPapel S.A.,0.45
+4,Resaltador Amarillo,error,Escritura,150.0,OfficeMax Ecuador,1.2
+5,Carpeta Manila A4,0.15,Archivo,1000.0,PapelPro Cía. Ltda.,0.3
+6,Tijeras Escolares 13cm,0.9,Manualidades,200.0,OfficeMax Ecuador,1.8
+7,Corrector Líquido 18ml,,Escritura,180.0,Norma Ecuador,1.5
+8,Goma de Borrar Blanca,0.25,Escritura,600.0,DistribuPapel S.A.,0.55
+9,Resma Papel Bond A4 75g,3.2,Papel,250.0,PapelPro Cía. Ltda.,5.5
+10,Marcador Permanente Negro,0.6,Escritura,400.0,OfficeMax Ecuador,1.1
+11,Archivador AZ Negro,2.5,Archivo,120.0,PapelPro Cía. Ltda.,4.8
+12,Post-it 3x3 Amarillo,1.1,Organización,,OfficeMax Ecuador,2.2
+13,Clips Metálicos Caja x100,0.45,Organización,350.0,DistribuPapel S.A.,0.9
+14,Sobre Manila A4 Paquete x25,1.6,Archivo,180.0,,3.0
+15,Regla 30cm Transparente,0.3,Geometría,450.0,Norma Ecuador,0.65
+16,Compás Escolar Metálico,1.2,Geometría,90.0,Norma Ecuador,2.5
+17,Folder Plástico A4 Rojo,0.5,Archivo,300.0,PapelPro Cía. Ltda.,0.9500000000000001
+18,Cinta Adhesiva 18mm Transparente,0.4,Manualidades,500.0,OfficeMax Ecuador,0.8
+19,Grapadora Metálica 24/6,3.8,Organización,75.0,DistribuPapel S.A.,7.2
+20,Crayones x12 Colores,0.9500000000000001,Manualidades,-30.0,Norma Ecuador,1.8
+41,Tiza Blanca Caja x100,1.5,Escritura,180.0,Norma Ecuador,3.00
+42,Papelógrafo Cuadriculado x50,2.8,Papel,130.0,PapelPro Cía. Ltda.,5.20
+43,Organizador de Escritorio Plástico,3.6,Organización,65.0,OfficeMax Ecuador,6.80
+44,Cuaderno Cosido 50 hojas,0.9,Cuadernos,,Norma Ecuador,1.80
+45,Cartulina de Colores x10,0.7,Papel,320.0,PapelPro Cía. Ltda.,1.40
+46,Borrador Nata Pelikan,,Escritura,670.0,DistribuPapel S.A.,0.60
+47,Mochila Escolar Mediana,12.5,Accesorios,50.0,,24.00
+48,Plumones Lavables x10,1.8,Manualidades,275.0,Norma Ecuador,3.50
+49,Cuaderno Universitario Cuadriculado,1.8,Cuadernos,190.0,Norma Ecuador,error
+50,Tijeras para Zurdo 21cm,1.4,Manualidades,80.0,OfficeMax Ecuador,2.70
+51,Resaltador Verde 4mm,0.55,Escritura,360.0,DistribuPapel S.A.,1.10
+52,Libro de Actas 100 hojas,4.2,Cuadernos,45.0,PapelPro Cía. Ltda.,7.90
+53,Dispensador de Cinta Escritorio,,Organización,95.0,OfficeMax Ecuador,3.80
+54,Funda Plástica A4 Transparente x100,2.9,Archivo,140.0,PapelPro Cía. Ltda.,5.50
+55,Bolígrafo BIC Azul,0.35,Escritura,500.0,DistribuPapel S.A.,0.75
+56,Transportador 180° Plástico,0.4,Geometría,310.0,Norma Ecuador,0.85
+57,Cartón Corrugado 50x70cm,0.8,Manualidades,-15.0,PapelPro Cía. Ltda.,1.60
+58,Separadores de Colores x5,0.65,Archivo,420.0,DistribuPapel S.A.,1.25
+59,Marcador Acrílico Blanco,1.3,Manualidades,115.0,OfficeMax Ecuador,2.50
+60,Cuaderno Espiral A4 160 hojas,2.6,Cuadernos,155.0,Norma Ecuador,4.90
+21,Sacapuntas Doble Uso,0.15,Escritura,700.0,DistribuPapel S.A.,0.35
+22,Cuaderno Espiral A5 80 hojas,1.4,Cuadernos,220.0,Norma Ecuador,2.80
+23,Lápiz de Color x24,2.1,Manualidades,160.0,Norma Ecuador,4.20
+24,Pegamento en Barra 40g,0.55,Manualidades,430.0,OfficeMax Ecuador,1.05
+25,Papel Lustre x10 colores,0.6,Papel,380.0,PapelPro Cía. Ltda.,1.20
+26,Borrador Tinta-Lápiz,0.3,Escritura,550.0,DistribuPapel S.A.,0.65
+27,Bolígrafo Gel Negro 0.5mm,,Escritura,310.0,OfficeMax Ecuador,1.40
+28,Agenda 2025 Ejecutiva,5.2,Organización,85.0,PapelPro Cía. Ltda.,9.80
+29,Scotch Doble Faz 12mm,,Manualidades,265.0,OfficeMax Ecuador,1.60
+30,Perforadora 2 huecos,4.5,Organización,60.0,DistribuPapel S.A.,8.50
+31,Tóner HP LaserJet 85A,18.0,Tecnología,40.0,TechSupply S.A.,32.00
+32,Carpeta 3 Anillos Negra,3.1,Archivo,95.0,PapelPro Cía. Ltda.,5.80
+33,Marcador de Pizarra Azul,0.7,Escritura,290.0,Norma Ecuador,1.30
+34,Chinches Dorados Caja x50,0.5,Organización,400.0,DistribuPapel S.A.,1.00
+35,Papel Milimetrado A4 x50,1.2,Papel,170.0,PapelPro Cía. Ltda.,2.40
+36,Regla Metálica 30cm,0.8,Geometría,230.0,Norma Ecuador,1.60
+37,Cuaderno de Dibujo A3,2.8,Cuadernos,110.0,Norma Ecuador,error
+38,Estilete Metálico 18mm,1.1,Manualidades,145.0,OfficeMax Ecuador,2.10
+39,Resma Papel Color A4 x100,2.4,Papel,200.0,PapelPro Cía. Ltda.,4.50
+40,Bolígrafo BIC Rojo,0.35,Escritura,480.0,DistribuPapel S.A.,0.75
