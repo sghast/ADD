@@ -1,0 +1,24 @@
+TOP 20 palabras más frecuentes
+
+the ---> 7811
+and ---> 5686
+to ---> 4427
+of ---> 3595
+he ---> 2507
+in ---> 2416
+that ---> 2349
+was ---> 1801
+it ---> 1723
+as ---> 1553
+we ---> 1484
+for ---> 1463
+his ---> 1445
+is ---> 1432
+not ---> 1291
+with ---> 1260
+my ---> 1212
+you ---> 1129
+at ---> 1066
+have ---> 1044
+
+Tiempo de descarga (ms): 860.6
