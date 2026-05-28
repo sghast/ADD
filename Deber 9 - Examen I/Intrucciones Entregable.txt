@@ -1,0 +1,2 @@
+Subir el archivo .zip del directorio entregado para resolución del estudiante, la carpeta .zip debe llamarse asi: "Apellido_Nombre_ExamenI.zip
+"

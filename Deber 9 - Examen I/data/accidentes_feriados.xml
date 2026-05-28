@@ -1,0 +1,1823 @@
+<?xml version="1.0" ?>
+<accidentes_feriados fuente="ANT Ecuador" descripcion="Accidentes registrados en dias festivos nacionales 2019-2023">
+  <accidente id="701">
+    <fecha>2019-08-10</fecha>
+    <provincia>Orellana</provincia>
+    <canton>Loreto</canton>
+    <tipo_accidente>Volcamiento</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>4</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Independencia de Quito</nombre_feriado>
+  </accidente>
+  <accidente id="702">
+    <fecha>2021-10-09</fecha>
+    <provincia>Sucumbios</provincia>
+    <canton>Nueva Loja</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Independencia de Guayaquil</nombre_feriado>
+  </accidente>
+  <accidente id="703">
+    <fecha>2022-10-12</fecha>
+    <provincia>Imbabura</provincia>
+    <canton>Ibarra</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable/>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>5</heridos>
+    <vehiculos_involucrados/>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Dia de la Raza</nombre_feriado>
+  </accidente>
+  <accidente id="704">
+    <fecha>2022-05-24</fecha>
+    <provincia>Guayas</provincia>
+    <canton>Daule</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Batalla de Pichincha</nombre_feriado>
+  </accidente>
+  <accidente id="705">
+    <fecha>2023-04-08</fecha>
+    <provincia>Orellana</provincia>
+    <canton>Loreto</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales/>
+    <heridos>35</heridos>
+    <vehiculos_involucrados>15</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="706">
+    <fecha>2021-01-01</fecha>
+    <provincia>Azuay</provincia>
+    <canton>Sigsig</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable/>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>3</victimas_fatales>
+    <heridos>3</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Año Nuevo</nombre_feriado>
+  </accidente>
+  <accidente id="707">
+    <fecha>2023-12-25</fecha>
+    <provincia>Orellana</provincia>
+    <canton>Francisco de Orellana</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>3</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Navidad</nombre_feriado>
+  </accidente>
+  <accidente id="708">
+    <fecha>2020-05-01</fecha>
+    <provincia>Orellana</provincia>
+    <canton>Francisco de Orellana</canton>
+    <tipo_accidente>Choque lateral</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Dia del Trabajo</nombre_feriado>
+  </accidente>
+  <accidente id="709">
+    <fecha>2022-11-02</fecha>
+    <provincia>Chimborazo</provincia>
+    <canton>Colta</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos/>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via/>
+    <nombre_feriado>Dia de los Difuntos</nombre_feriado>
+  </accidente>
+  <accidente id="710">
+    <fecha>2021-08-10</fecha>
+    <provincia>Tungurahua</provincia>
+    <canton>Tisaleo</canton>
+    <tipo_accidente>Choque lateral</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales/>
+    <heridos>3</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Independencia de Quito</nombre_feriado>
+  </accidente>
+  <accidente id="711">
+    <fecha>2023-08-10</fecha>
+    <provincia>Azuay</provincia>
+    <canton>Sigsig</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>Cansancio del conductor</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Independencia de Quito</nombre_feriado>
+  </accidente>
+  <accidente id="712">
+    <fecha>2021-10-12</fecha>
+    <provincia>El Oro</provincia>
+    <canton>Santa Rosa</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>30</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Dia de la Raza</nombre_feriado>
+  </accidente>
+  <accidente id="713">
+    <fecha>2019-04-08</fecha>
+    <provincia>Sucumbios</provincia>
+    <canton>Cascales</canton>
+    <tipo_accidente>Volcamiento</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="714">
+    <fecha>2020-04-07</fecha>
+    <provincia>Tungurahua</provincia>
+    <canton>Banos</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales/>
+    <heridos>1</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="715">
+    <fecha>2019-08-10</fecha>
+    <provincia>El Oro</provincia>
+    <canton>Santa Rosa</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Independencia de Quito</nombre_feriado>
+  </accidente>
+  <accidente id="716">
+    <fecha>2022-10-09</fecha>
+    <provincia>Chimborazo</provincia>
+    <canton>Colta</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable/>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>3</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Independencia de Guayaquil</nombre_feriado>
+  </accidente>
+  <accidente id="717">
+    <fecha>2022-10-09</fecha>
+    <provincia>Orellana</provincia>
+    <canton>Francisco de Orellana</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Distraccion del conductor</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>5</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Independencia de Guayaquil</nombre_feriado>
+  </accidente>
+  <accidente id="718">
+    <fecha>2019-11-02</fecha>
+    <provincia>Orellana</provincia>
+    <canton>Francisco de Orellana</canton>
+    <tipo_accidente>Choque lateral</tipo_accidente>
+    <causa_probable>Cansancio del conductor</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales/>
+    <heridos>3</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Dia de los Difuntos</nombre_feriado>
+  </accidente>
+  <accidente id="719">
+    <fecha>2021-04-07</fecha>
+    <provincia>Loja</provincia>
+    <canton>Calvas</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>8</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="720">
+    <fecha>2020-04-07</fecha>
+    <provincia>Bolivar</provincia>
+    <canton>Echeandía</canton>
+    <tipo_accidente>Choque lateral</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="721">
+    <fecha>2020-11-02</fecha>
+    <provincia>Chimborazo</provincia>
+    <canton>Colta</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>5</victimas_fatales>
+    <heridos>4</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Dia de los Difuntos</nombre_feriado>
+  </accidente>
+  <accidente id="722">
+    <fecha>2020-04-07</fecha>
+    <provincia>Manabi</provincia>
+    <canton>Jipijapa</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>Cansancio del conductor</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>8</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="723">
+    <fecha>2019-05-01</fecha>
+    <provincia>Orellana</provincia>
+    <canton>Francisco de Orellana</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>2</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Dia del Trabajo</nombre_feriado>
+  </accidente>
+  <accidente id="724">
+    <fecha>2020-05-24</fecha>
+    <provincia>Imbabura</provincia>
+    <canton>Ibarra</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Batalla de Pichincha</nombre_feriado>
+  </accidente>
+  <accidente id="725">
+    <fecha>2023-02-21</fecha>
+    <provincia>Chimborazo</provincia>
+    <canton>Alausi</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Distraccion del conductor</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos>5</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via/>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="726">
+    <fecha>2020-10-09</fecha>
+    <provincia>Azuay</provincia>
+    <canton>Cuenca</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Distraccion del conductor</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Independencia de Guayaquil</nombre_feriado>
+  </accidente>
+  <accidente id="727">
+    <fecha>2020-10-09</fecha>
+    <provincia>Imbabura</provincia>
+    <canton>Ibarra</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>2</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Independencia de Guayaquil</nombre_feriado>
+  </accidente>
+  <accidente id="728">
+    <fecha>2020-04-07</fecha>
+    <provincia>Orellana</provincia>
+    <canton>Aguarico</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos/>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="729">
+    <fecha>2019-11-02</fecha>
+    <provincia>Bolivar</provincia>
+    <canton>Chillanes</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Cansancio del conductor</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>1</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Dia de los Difuntos</nombre_feriado>
+  </accidente>
+  <accidente id="730">
+    <fecha>2022-02-20</fecha>
+    <provincia>Azuay</provincia>
+    <canton>Gualaceo</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>5</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="731">
+    <fecha>2021-11-02</fecha>
+    <provincia>Chimborazo</provincia>
+    <canton>Guano</canton>
+    <tipo_accidente>Choque lateral</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>3</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Dia de los Difuntos</nombre_feriado>
+  </accidente>
+  <accidente id="732">
+    <fecha>2021-04-08</fecha>
+    <provincia>Loja</provincia>
+    <canton>Macara</canton>
+    <tipo_accidente>Volcamiento</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="733">
+    <fecha>2023-02-20</fecha>
+    <provincia>Orellana</provincia>
+    <canton>Aguarico</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>4</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="734">
+    <fecha>2023-01-01</fecha>
+    <provincia>Chimborazo</provincia>
+    <canton>Guano</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>2</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Año Nuevo</nombre_feriado>
+  </accidente>
+  <accidente id="735">
+    <fecha>2021-10-09</fecha>
+    <provincia>Pichincha</provincia>
+    <canton>Cayambe</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Independencia de Guayaquil</nombre_feriado>
+  </accidente>
+  <accidente id="736">
+    <fecha>2019-02-21</fecha>
+    <provincia>Azuay</provincia>
+    <canton>Cuenca</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="737">
+    <fecha>2022-11-03</fecha>
+    <provincia>Manabi</provincia>
+    <canton>Manta</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>5</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Independencia de Cuenca</nombre_feriado>
+  </accidente>
+  <accidente id="738">
+    <fecha>2023-12-25</fecha>
+    <provincia>Orellana</provincia>
+    <canton>Aguarico</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable/>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>3</heridos>
+    <vehiculos_involucrados/>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Navidad</nombre_feriado>
+  </accidente>
+  <accidente id="739">
+    <fecha>2020-04-07</fecha>
+    <provincia>Guayas</provincia>
+    <canton>Milagro</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos/>
+    <vehiculos_involucrados/>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="740">
+    <fecha>2022-02-21</fecha>
+    <provincia>Manabi</provincia>
+    <canton>El Carmen</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales/>
+    <heridos/>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="741">
+    <fecha>2021-11-02</fecha>
+    <provincia>Pichincha</provincia>
+    <canton>Pedro Moncayo</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>3</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Dia de los Difuntos</nombre_feriado>
+  </accidente>
+  <accidente id="742">
+    <fecha>2022-10-09</fecha>
+    <provincia>Tungurahua</provincia>
+    <canton>Mocha</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable/>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales/>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Independencia de Guayaquil</nombre_feriado>
+  </accidente>
+  <accidente id="743">
+    <fecha>2021-04-07</fecha>
+    <provincia>Chimborazo</provincia>
+    <canton>Riobamba</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>1</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="744">
+    <fecha>2023-11-03</fecha>
+    <provincia>Pichincha</provincia>
+    <canton>Mejia</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>5</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Independencia de Cuenca</nombre_feriado>
+  </accidente>
+  <accidente id="745">
+    <fecha>2020-08-10</fecha>
+    <provincia>Azuay</provincia>
+    <canton>Chordeleg</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable/>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Independencia de Quito</nombre_feriado>
+  </accidente>
+  <accidente id="746">
+    <fecha>2023-02-20</fecha>
+    <provincia>El Oro</provincia>
+    <canton>Huaquillas</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos/>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="747">
+    <fecha>2021-01-01</fecha>
+    <provincia>Manabi</provincia>
+    <canton>Jipijapa</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Cansancio del conductor</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>4</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Año Nuevo</nombre_feriado>
+  </accidente>
+  <accidente id="748">
+    <fecha>2023-10-09</fecha>
+    <provincia>Loja</provincia>
+    <canton>Loja</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable>Distraccion del conductor</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Independencia de Guayaquil</nombre_feriado>
+  </accidente>
+  <accidente id="749">
+    <fecha>2022-05-01</fecha>
+    <provincia>Bolivar</provincia>
+    <canton>Guaranda</canton>
+    <tipo_accidente>Choque lateral</tipo_accidente>
+    <causa_probable/>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos>1</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Dia del Trabajo</nombre_feriado>
+  </accidente>
+  <accidente id="750">
+    <fecha>2021-10-12</fecha>
+    <provincia>Pichincha</provincia>
+    <canton>Rumiñahui</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>4</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Dia de la Raza</nombre_feriado>
+  </accidente>
+  <accidente id="751">
+    <fecha>2021-04-07</fecha>
+    <provincia>El Oro</provincia>
+    <canton>Pasaje</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="752">
+    <fecha>2020-02-21</fecha>
+    <provincia>El Oro</provincia>
+    <canton>Pasaje</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="753">
+    <fecha>2023-04-07</fecha>
+    <provincia>Tungurahua</provincia>
+    <canton>Tisaleo</canton>
+    <tipo_accidente>Volcamiento</tipo_accidente>
+    <causa_probable>Cansancio del conductor</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>5</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="754">
+    <fecha>2021-02-20</fecha>
+    <provincia>Bolivar</provincia>
+    <canton>Echeandía</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>1</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="755">
+    <fecha>2023-12-25</fecha>
+    <provincia>Tungurahua</provincia>
+    <canton>Ambato</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados/>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Navidad</nombre_feriado>
+  </accidente>
+  <accidente id="756">
+    <fecha>2023-05-24</fecha>
+    <provincia>Guayas</provincia>
+    <canton>Samborondon</canton>
+    <tipo_accidente>Choque lateral</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Batalla de Pichincha</nombre_feriado>
+  </accidente>
+  <accidente id="757">
+    <fecha>2019-11-02</fecha>
+    <provincia>Bolivar</provincia>
+    <canton>Chimbo</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos/>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Dia de los Difuntos</nombre_feriado>
+  </accidente>
+  <accidente id="758">
+    <fecha>2020-10-09</fecha>
+    <provincia>Guayas</provincia>
+    <canton>Duran</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Independencia de Guayaquil</nombre_feriado>
+  </accidente>
+  <accidente id="759">
+    <fecha>2023-04-08</fecha>
+    <provincia>Loja</provincia>
+    <canton>Loja</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Cansancio del conductor</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="760">
+    <fecha>2020-02-20</fecha>
+    <provincia>Bolivar</provincia>
+    <canton>Guaranda</canton>
+    <tipo_accidente>Choque lateral</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="761">
+    <fecha>2020-04-07</fecha>
+    <provincia>El Oro</provincia>
+    <canton>Santa Rosa</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="762">
+    <fecha>2021-08-10</fecha>
+    <provincia>Bolivar</provincia>
+    <canton>Guaranda</canton>
+    <tipo_accidente>Volcamiento</tipo_accidente>
+    <causa_probable>Distraccion del conductor</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>4</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Independencia de Quito</nombre_feriado>
+  </accidente>
+  <accidente id="763">
+    <fecha>2021-01-01</fecha>
+    <provincia>Cotopaxi</provincia>
+    <canton>Pujili</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>8</heridos>
+    <vehiculos_involucrados/>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Año Nuevo</nombre_feriado>
+  </accidente>
+  <accidente id="764">
+    <fecha>2020-11-02</fecha>
+    <provincia>Los Rios</provincia>
+    <canton>Vinces</canton>
+    <tipo_accidente>Choque lateral</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>8</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Dia de los Difuntos</nombre_feriado>
+  </accidente>
+  <accidente id="765">
+    <fecha>2022-04-07</fecha>
+    <provincia>Cotopaxi</provincia>
+    <canton>Sigchos</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="766">
+    <fecha>2021-05-01</fecha>
+    <provincia>El Oro</provincia>
+    <canton>Santa Rosa</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Dia del Trabajo</nombre_feriado>
+  </accidente>
+  <accidente id="767">
+    <fecha>2022-12-25</fecha>
+    <provincia>Cotopaxi</provincia>
+    <canton>Salcedo</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Navidad</nombre_feriado>
+  </accidente>
+  <accidente id="768">
+    <fecha>2022-05-01</fecha>
+    <provincia>Loja</provincia>
+    <canton>Calvas</canton>
+    <tipo_accidente>Volcamiento</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos>8</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Dia del Trabajo</nombre_feriado>
+  </accidente>
+  <accidente id="769">
+    <fecha>2022-10-09</fecha>
+    <provincia>Imbabura</provincia>
+    <canton>Ibarra</canton>
+    <tipo_accidente>Volcamiento</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales/>
+    <heridos>2</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Independencia de Guayaquil</nombre_feriado>
+  </accidente>
+  <accidente id="770">
+    <fecha>2020-04-08</fecha>
+    <provincia>Azuay</provincia>
+    <canton>Sigsig</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="771">
+    <fecha>2021-04-08</fecha>
+    <provincia>Orellana</provincia>
+    <canton>La Joya de los Sachas</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="772">
+    <fecha>2023-02-21</fecha>
+    <provincia>Loja</provincia>
+    <canton>Catamayo</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="773">
+    <fecha>2022-05-01</fecha>
+    <provincia>Tungurahua</provincia>
+    <canton>Ambato</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos/>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Dia del Trabajo</nombre_feriado>
+  </accidente>
+  <accidente id="774">
+    <fecha>2021-12-25</fecha>
+    <provincia>Sucumbios</provincia>
+    <canton>Lago Agrio</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>2</heridos>
+    <vehiculos_involucrados>15</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Navidad</nombre_feriado>
+  </accidente>
+  <accidente id="775">
+    <fecha>2020-05-24</fecha>
+    <provincia>Cotopaxi</provincia>
+    <canton>Latacunga</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Batalla de Pichincha</nombre_feriado>
+  </accidente>
+  <accidente id="776">
+    <fecha>2023-02-21</fecha>
+    <provincia>Los Rios</provincia>
+    <canton>Ventanas</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="777">
+    <fecha>2020-02-20</fecha>
+    <provincia>Sucumbios</provincia>
+    <canton>Cascales</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Cansancio del conductor</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>8</heridos>
+    <vehiculos_involucrados/>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via/>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="778">
+    <fecha>2023-05-24</fecha>
+    <provincia>Loja</provincia>
+    <canton>Loja</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos>2</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Batalla de Pichincha</nombre_feriado>
+  </accidente>
+  <accidente id="779">
+    <fecha>2021-05-24</fecha>
+    <provincia>Azuay</provincia>
+    <canton>Cuenca</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>1</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via/>
+    <nombre_feriado>Batalla de Pichincha</nombre_feriado>
+  </accidente>
+  <accidente id="780">
+    <fecha>2021-10-12</fecha>
+    <provincia>Manabi</provincia>
+    <canton>Manta</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>4</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Dia de la Raza</nombre_feriado>
+  </accidente>
+  <accidente id="781">
+    <fecha>2019-12-25</fecha>
+    <provincia>Cotopaxi</provincia>
+    <canton>La Mana</canton>
+    <tipo_accidente>Choque lateral</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>4</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Navidad</nombre_feriado>
+  </accidente>
+  <accidente id="782">
+    <fecha>2019-02-20</fecha>
+    <provincia>Bolivar</provincia>
+    <canton>San Miguel</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>1</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="783">
+    <fecha>2019-11-02</fecha>
+    <provincia>Azuay</provincia>
+    <canton>Sigsig</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>2</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via/>
+    <nombre_feriado>Dia de los Difuntos</nombre_feriado>
+  </accidente>
+  <accidente id="784">
+    <fecha>2023-04-07</fecha>
+    <provincia>Manabi</provincia>
+    <canton>El Carmen</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>8</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="785">
+    <fecha>2021-02-20</fecha>
+    <provincia>Sucumbios</provincia>
+    <canton>Shushufindi</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>8</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="786">
+    <fecha>2023-12-25</fecha>
+    <provincia>El Oro</provincia>
+    <canton>Zaruma</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>Distraccion del conductor</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Navidad</nombre_feriado>
+  </accidente>
+  <accidente id="787">
+    <fecha>2020-10-12</fecha>
+    <provincia>Los Rios</provincia>
+    <canton>Babahoyo</canton>
+    <tipo_accidente>Volcamiento</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Dia de la Raza</nombre_feriado>
+  </accidente>
+  <accidente id="788">
+    <fecha>2023-10-09</fecha>
+    <provincia>Tungurahua</provincia>
+    <canton>Ambato</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Distraccion del conductor</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Independencia de Guayaquil</nombre_feriado>
+  </accidente>
+  <accidente id="789">
+    <fecha>2022-02-21</fecha>
+    <provincia>Bolivar</provincia>
+    <canton>Chillanes</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="790">
+    <fecha>2022-04-07</fecha>
+    <provincia>Orellana</provincia>
+    <canton>Loreto</canton>
+    <tipo_accidente>Choque lateral</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="791">
+    <fecha>2020-02-21</fecha>
+    <provincia>Bolivar</provincia>
+    <canton>Echeandía</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="792">
+    <fecha>2020-01-01</fecha>
+    <provincia>Imbabura</provincia>
+    <canton>Otavalo</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>Cansancio del conductor</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Año Nuevo</nombre_feriado>
+  </accidente>
+  <accidente id="793">
+    <fecha>2023-05-24</fecha>
+    <provincia>Sucumbios</provincia>
+    <canton>Lago Agrio</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>Distraccion del conductor</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>1</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Batalla de Pichincha</nombre_feriado>
+  </accidente>
+  <accidente id="794">
+    <fecha>2021-02-21</fecha>
+    <provincia>Sucumbios</provincia>
+    <canton>Cascales</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="795">
+    <fecha>2022-11-02</fecha>
+    <provincia>Bolivar</provincia>
+    <canton>San Miguel</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>2</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Dia de los Difuntos</nombre_feriado>
+  </accidente>
+  <accidente id="796">
+    <fecha>2022-02-20</fecha>
+    <provincia>Guayas</provincia>
+    <canton>Duran</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Cansancio del conductor</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos>2</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="797">
+    <fecha>2021-02-21</fecha>
+    <provincia>Napo</provincia>
+    <canton>Archidona</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Distraccion del conductor</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>4</victimas_fatales>
+    <heridos>8</heridos>
+    <vehiculos_involucrados/>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="798">
+    <fecha>2022-08-10</fecha>
+    <provincia>Chimborazo</provincia>
+    <canton>Riobamba</canton>
+    <tipo_accidente>Volcamiento</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Independencia de Quito</nombre_feriado>
+  </accidente>
+  <accidente id="799">
+    <fecha>2021-05-01</fecha>
+    <provincia>Azuay</provincia>
+    <canton>Gualaceo</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales/>
+    <heridos>8</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Dia del Trabajo</nombre_feriado>
+  </accidente>
+  <accidente id="800">
+    <fecha>2021-01-01</fecha>
+    <provincia>El Oro</provincia>
+    <canton>Pasaje</canton>
+    <tipo_accidente>Choque lateral</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>4</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Año Nuevo</nombre_feriado>
+  </accidente>
+  <accidente id="801">
+    <fecha>2023-11-02</fecha>
+    <provincia>Imbabura</provincia>
+    <canton>Cotacachi</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Dia de los Difuntos</nombre_feriado>
+  </accidente>
+  <accidente id="802">
+    <fecha>2021-10-09</fecha>
+    <provincia>Cotopaxi</provincia>
+    <canton>Pujili</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>1</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Independencia de Guayaquil</nombre_feriado>
+  </accidente>
+  <accidente id="803">
+    <fecha>2023-11-02</fecha>
+    <provincia>Azuay</provincia>
+    <canton>Cuenca</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Cansancio del conductor</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos>4</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Dia de los Difuntos</nombre_feriado>
+  </accidente>
+  <accidente id="804">
+    <fecha>2021-02-20</fecha>
+    <provincia>Imbabura</provincia>
+    <canton>Cotacachi</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="805">
+    <fecha>2020-08-10</fecha>
+    <provincia>Azuay</provincia>
+    <canton>Chordeleg</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Independencia de Quito</nombre_feriado>
+  </accidente>
+  <accidente id="806">
+    <fecha>2022-02-20</fecha>
+    <provincia>Azuay</provincia>
+    <canton>Sigsig</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>No respetar seniales</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>2</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="807">
+    <fecha>2021-01-01</fecha>
+    <provincia>Cotopaxi</provincia>
+    <canton>Sigchos</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>4</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Año Nuevo</nombre_feriado>
+  </accidente>
+  <accidente id="808">
+    <fecha>2020-08-10</fecha>
+    <provincia>Guayas</provincia>
+    <canton>Milagro</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Distraccion del conductor</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>3</victimas_fatales>
+    <heridos>6</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Independencia de Quito</nombre_feriado>
+  </accidente>
+  <accidente id="809">
+    <fecha>2021-10-12</fecha>
+    <provincia>Bolivar</provincia>
+    <canton>Echeandía</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>0</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Dia de la Raza</nombre_feriado>
+  </accidente>
+  <accidente id="810">
+    <fecha>2020-12-25</fecha>
+    <provincia>Orellana</provincia>
+    <canton>Dayuma</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Navidad</nombre_feriado>
+  </accidente>
+  <accidente id="811">
+    <fecha>2022-08-10</fecha>
+    <provincia>Los Rios</provincia>
+    <canton>Vinces</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Cansancio del conductor</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>3</victimas_fatales>
+    <heridos>4</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Independencia de Quito</nombre_feriado>
+  </accidente>
+  <accidente id="812">
+    <fecha>2023-02-21</fecha>
+    <provincia>El Oro</provincia>
+    <canton>Huaquillas</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable/>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="813">
+    <fecha>2023-11-02</fecha>
+    <provincia>Sucumbios</provincia>
+    <canton>Cascales</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales/>
+    <heridos>8</heridos>
+    <vehiculos_involucrados/>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Dia de los Difuntos</nombre_feriado>
+  </accidente>
+  <accidente id="814">
+    <fecha>2019-10-12</fecha>
+    <provincia>Chimborazo</provincia>
+    <canton>Colta</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>1</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Dia de la Raza</nombre_feriado>
+  </accidente>
+  <accidente id="815">
+    <fecha>2021-11-03</fecha>
+    <provincia>Imbabura</provincia>
+    <canton>Ibarra</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>4</victimas_fatales>
+    <heridos>2</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Independencia de Cuenca</nombre_feriado>
+  </accidente>
+  <accidente id="816">
+    <fecha>2022-05-24</fecha>
+    <provincia>Guayas</provincia>
+    <canton>Duran</canton>
+    <tipo_accidente>Choque lateral</tipo_accidente>
+    <causa_probable>Cansancio del conductor</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales/>
+    <heridos>5</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Batalla de Pichincha</nombre_feriado>
+  </accidente>
+  <accidente id="817">
+    <fecha>2021-01-01</fecha>
+    <provincia>Sucumbios</provincia>
+    <canton>Shushufindi</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Distraccion del conductor</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>2</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Año Nuevo</nombre_feriado>
+  </accidente>
+  <accidente id="818">
+    <fecha>2019-04-07</fecha>
+    <provincia>Tungurahua</provincia>
+    <canton>Mocha</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>3</heridos>
+    <vehiculos_involucrados/>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="819">
+    <fecha>2020-02-21</fecha>
+    <provincia>Tungurahua</provincia>
+    <canton>Banos</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>Mal estado de la via</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales/>
+    <heridos>7</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="820">
+    <fecha>2023-05-24</fecha>
+    <provincia>Manabi</provincia>
+    <canton>Portoviejo</canton>
+    <tipo_accidente>Choque frontal</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>5</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Batalla de Pichincha</nombre_feriado>
+  </accidente>
+  <accidente id="821">
+    <fecha>2023-10-09</fecha>
+    <provincia>Sucumbios</provincia>
+    <canton>Nueva Loja</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Cansancio del conductor</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>1</victimas_fatales>
+    <heridos>1</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Independencia de Guayaquil</nombre_feriado>
+  </accidente>
+  <accidente id="822">
+    <fecha>2021-11-03</fecha>
+    <provincia>Guayas</provincia>
+    <canton>Milagro</canton>
+    <tipo_accidente>Rozamiento</tipo_accidente>
+    <causa_probable/>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>38</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Independencia de Cuenca</nombre_feriado>
+  </accidente>
+  <accidente id="823">
+    <fecha>2023-11-03</fecha>
+    <provincia>Napo</provincia>
+    <canton>Archidona</canton>
+    <tipo_accidente>Atropello</tipo_accidente>
+    <causa_probable>Exceso de velocidad</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>2</heridos>
+    <vehiculos_involucrados>2</vehiculos_involucrados>
+    <condicion_climatica>Neblina</condicion_climatica>
+    <tipo_via>Urbana</tipo_via>
+    <nombre_feriado>Independencia de Cuenca</nombre_feriado>
+  </accidente>
+  <accidente id="824">
+    <fecha>2019-05-01</fecha>
+    <provincia>Chimborazo</provincia>
+    <canton>Chambo</canton>
+    <tipo_accidente>Volcamiento</tipo_accidente>
+    <causa_probable/>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>4</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Dia del Trabajo</nombre_feriado>
+  </accidente>
+  <accidente id="825">
+    <fecha>2020-04-08</fecha>
+    <provincia>El Oro</provincia>
+    <canton>Zaruma</canton>
+    <tipo_accidente>Choque con objeto fijo</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>5</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="826">
+    <fecha>2020-12-25</fecha>
+    <provincia>Pichincha</provincia>
+    <canton>Rumiñahui</canton>
+    <tipo_accidente>Choque lateral</tipo_accidente>
+    <causa_probable>Estado de embriaguez</causa_probable>
+    <gravedad>Fatal</gravedad>
+    <victimas_fatales>4</victimas_fatales>
+    <heridos>4</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Lluvioso</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Navidad</nombre_feriado>
+  </accidente>
+  <accidente id="827">
+    <fecha>2022-04-07</fecha>
+    <provincia>Sucumbios</provincia>
+    <canton>Lago Agrio</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Distraccion del conductor</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>3</heridos>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Autopista</tipo_via>
+    <nombre_feriado>Semana Santa</nombre_feriado>
+  </accidente>
+  <accidente id="828">
+    <fecha>2019-02-20</fecha>
+    <provincia>Sucumbios</provincia>
+    <canton>Shushufindi</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>5</heridos>
+    <vehiculos_involucrados>1</vehiculos_involucrados>
+    <condicion_climatica>Soleado</condicion_climatica>
+    <tipo_via>Rural</tipo_via>
+    <nombre_feriado>Carnaval</nombre_feriado>
+  </accidente>
+  <accidente id="829">
+    <fecha>2023-05-01</fecha>
+    <provincia>Napo</provincia>
+    <canton>Archidona</canton>
+    <tipo_accidente>Volcamiento</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Grave</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos/>
+    <vehiculos_involucrados>4</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Perimetral</tipo_via>
+    <nombre_feriado>Dia del Trabajo</nombre_feriado>
+  </accidente>
+  <accidente id="830">
+    <fecha>2023-05-24</fecha>
+    <provincia>Loja</provincia>
+    <canton>Loja</canton>
+    <tipo_accidente>Caida de ocupante</tipo_accidente>
+    <causa_probable>Fallas mecanicas</causa_probable>
+    <gravedad>Leve</gravedad>
+    <victimas_fatales>0</victimas_fatales>
+    <heridos>4</heridos>
+    <vehiculos_involucrados>3</vehiculos_involucrados>
+    <condicion_climatica>Nublado</condicion_climatica>
+    <tipo_via>Secundaria</tipo_via>
+    <nombre_feriado>Batalla de Pichincha</nombre_feriado>
+  </accidente>
+</accidentes_feriados>

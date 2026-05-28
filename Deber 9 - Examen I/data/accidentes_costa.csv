@@ -1,0 +1,233 @@
+id_accidente,fecha,provincia,canton,tipo_accidente,causa_probable,gravedad,victimas_fatales,heridos,vehiculos_involucrados,condicion_climatica,tipo_via
+1,2019-07-11,Guayas,Daule,Choque lateral,Estado de embriaguez,Leve,,4.0,1.0,Soleado,
+2,2019-07-29,Manabi,Portoviejo,Volcamiento,Distraccion del conductor,Fatal,5.0,7.0,1.0,Soleado,Autopista
+3,2022-12-13,El Oro,Machala,Choque frontal,Fallas mecanicas,Grave,1.0,0.0,4.0,Lluvioso,Rural
+4,2022-06-01,El Oro,Pasaje,Rozamiento,Cansancio del conductor,Grave,0.0,1.0,3.0,Lluvioso,Urbana
+5,2021-04-01,Manabi,Chone,Choque frontal,No respetar seniales,Leve,0.0,4.0,2.0,Lluvioso,Autopista
+6,2021-05-27,El Oro,Zaruma,Volcamiento,Mal estado de la via,Leve,0.0,7.0,4.0,Nublado,Secundaria
+7,2021-02-27,Manabi,El Carmen,Rozamiento,Cansancio del conductor,Leve,0.0,2.0,1.0,Neblina,Urbana
+8,2021-10-22,El Oro,Pasaje,Rozamiento,No respetar seniales,Fatal,5.0,0.0,3.0,Soleado,Autopista
+9,2020-05-05,El Oro,Machala,Choque lateral,Distraccion del conductor,Grave,2.0,3.0,1.0,Soleado,Autopista
+10,2021-05-16,Guayas,Daule,Rozamiento,Distraccion del conductor,Grave,2.0,1.0,2.0,Lluvioso,Secundaria
+11,2020-03-27,El Oro,Machala,Choque frontal,,Leve,0.0,5.0,1.0,Soleado,Secundaria
+12,2023-05-26,Manabi,El Carmen,Choque con objeto fijo,Mal estado de la via,Fatal,1.0,5.0,4.0,Neblina,Rural
+13,2020-05-24,Manabi,Manta,Choque lateral,Estado de embriaguez,Grave,0.0,6.0,1.0,Neblina,Urbana
+14,2023-09-09,Manabi,Portoviejo,Choque frontal,Exceso de velocidad,Leve,0.0,4.0,1.0,Lluvioso,Secundaria
+15,2021-05-16,Manabi,Jipijapa,Caida de ocupante,Fallas mecanicas,Leve,0.0,7.0,13.0,Neblina,Autopista
+16,2019-11-19,Manabi,Portoviejo,Rozamiento,Mal estado de la via,Leve,0.0,3.0,1.0,Soleado,Secundaria
+17,2022-09-08,Manabi,Jipijapa,Rozamiento,Exceso de velocidad,Leve,,1.0,1.0,Nublado,Perimetral
+18,2019-07-24,El Oro,Machala,Rozamiento,Exceso de velocidad,Leve,0.0,5.0,3.0,Lluvioso,Secundaria
+19,2019-01-17,El Oro,Zaruma,Atropello,Distraccion del conductor,Leve,0.0,5.0,3.0,Soleado,Secundaria
+20,2021-09-27,Manabi,Chone,Choque con objeto fijo,Cansancio del conductor,Leve,0.0,1.0,3.0,Soleado,Secundaria
+21,2022-02-22,Guayas,Guayaquil,Choque frontal,Cansancio del conductor,Grave,2.0,,3.0,Soleado,Perimetral
+22,2021-01-02,Manabi,Manta,Caida de ocupante,Fallas mecanicas,Leve,0.0,5.0,,Lluvioso,Urbana
+23,2019-02-20,Guayas,Daule,Caida de ocupante,Fallas mecanicas,Leve,0.0,8.0,2.0,Nublado,Perimetral
+24,2020-12-17,Los Rios,Ventanas,Choque con objeto fijo,No respetar seniales,Leve,0.0,3.0,1.0,Lluvioso,Perimetral
+25,2020-11-09,Manabi,Portoviejo,Choque frontal,Estado de embriaguez,Leve,,3.0,1.0,Nublado,Secundaria
+26,2020-01-25,Manabi,Chone,Choque frontal,Mal estado de la via,Grave,2.0,,4.0,Neblina,Secundaria
+27,2023-01-14,Guayas,Milagro,Rozamiento,Distraccion del conductor,Leve,0.0,8.0,2.0,Nublado,Urbana
+28,2020-09-14,Los Rios,Ventanas,Choque lateral,Distraccion del conductor,Leve,0.0,4.0,4.0,Neblina,Urbana
+29,2022-10-09,El Oro,Santa Rosa,Choque lateral,Mal estado de la via,Grave,1.0,3.0,2.0,Lluvioso,Rural
+30,2021-03-29,Manabi,Manta,Choque lateral,Cansancio del conductor,Leve,,3.0,1.0,Soleado,Perimetral
+31,2022-06-08,Guayas,Duran,Volcamiento,Mal estado de la via,Grave,1.0,8.0,1.0,Neblina,Perimetral
+32,2020-04-25,Manabi,Chone,Atropello,Distraccion del conductor,Leve,0.0,7.0,3.0,Nublado,Autopista
+33,2023-09-02,Guayas,Samborondon,Volcamiento,Estado de embriaguez,Leve,0.0,3.0,2.0,Soleado,
+34,2021-06-11,Los Rios,Vinces,Choque frontal,No respetar seniales,Fatal,,5.0,4.0,Neblina,Autopista
+35,2023-11-11,El Oro,Huaquillas,Choque lateral,Exceso de velocidad,Fatal,4.0,7.0,1.0,Soleado,Rural
+36,2023-03-15,El Oro,Zaruma,Choque frontal,Fallas mecanicas,Grave,1.0,7.0,4.0,Nublado,Urbana
+37,2020-03-22,Manabi,El Carmen,Caida de ocupante,Estado de embriaguez,Leve,0.0,0.0,2.0,Nublado,Secundaria
+38,2021-03-23,El Oro,Pasaje,Choque frontal,Cansancio del conductor,Leve,0.0,1.0,3.0,Lluvioso,Perimetral
+39,2023-10-06,Guayas,Samborondon,Choque con objeto fijo,Mal estado de la via,Grave,2.0,1.0,1.0,Neblina,Urbana
+40,2023-05-06,Guayas,Samborondon,Volcamiento,Distraccion del conductor,Leve,0.0,5.0,2.0,Neblina,Secundaria
+41,2023-10-09,El Oro,Santa Rosa,Choque lateral,Estado de embriaguez,Leve,0.0,3.0,4.0,Neblina,Perimetral
+42,2022-02-11,Manabi,Manta,Caida de ocupante,No respetar seniales,Leve,0.0,4.0,3.0,Neblina,Perimetral
+43,2020-11-08,Los Rios,Ventanas,Caida de ocupante,Mal estado de la via,Leve,0.0,0.0,2.0,Neblina,Secundaria
+44,2022-05-07,El Oro,Santa Rosa,Choque frontal,Mal estado de la via,Fatal,3.0,1.0,2.0,Lluvioso,Secundaria
+45,2019-07-30,El Oro,Machala,Rozamiento,Cansancio del conductor,Leve,0.0,2.0,2.0,Nublado,Perimetral
+46,2019-11-07,Los Rios,Quevedo,Choque con objeto fijo,Mal estado de la via,Grave,1.0,2.0,4.0,Nublado,Urbana
+47,2020-09-17,Guayas,Duran,Rozamiento,Distraccion del conductor,Leve,0.0,1.0,2.0,Soleado,Perimetral
+48,2021-07-11,Guayas,Duran,Volcamiento,,Leve,0.0,3.0,1.0,Nublado,
+49,2021-05-20,Guayas,Guayaquil,Rozamiento,Cansancio del conductor,Leve,0.0,4.0,2.0,Lluvioso,Rural
+50,2022-12-04,Manabi,El Carmen,Atropello,Estado de embriaguez,Leve,0.0,2.0,3.0,Neblina,Autopista
+51,2023-04-16,Los Rios,Ventanas,Rozamiento,Mal estado de la via,Fatal,1.0,6.0,1.0,Soleado,Urbana
+52,2022-10-04,Manabi,Portoviejo,Choque con objeto fijo,Distraccion del conductor,Grave,1.0,7.0,4.0,Lluvioso,Autopista
+53,2023-08-17,El Oro,Machala,Caida de ocupante,Fallas mecanicas,Fatal,4.0,4.0,1.0,Neblina,Secundaria
+54,2019-09-06,Los Rios,Babahoyo,Caida de ocupante,Distraccion del conductor,Fatal,1.0,5.0,4.0,Lluvioso,Perimetral
+55,2021-11-08,Manabi,Chone,Volcamiento,Estado de embriaguez,Grave,1.0,8.0,1.0,Neblina,Autopista
+56,2020-07-01,Los Rios,Babahoyo,Atropello,Estado de embriaguez,Fatal,2.0,2.0,2.0,Nublado,Secundaria
+57,2020-04-23,Los Rios,Vinces,Choque frontal,Cansancio del conductor,Leve,0.0,7.0,4.0,Nublado,Perimetral
+58,2023-11-26,Los Rios,Vinces,Choque frontal,Mal estado de la via,Leve,0.0,6.0,2.0,Neblina,Urbana
+59,2023-10-11,Guayas,Milagro,Choque con objeto fijo,Cansancio del conductor,Leve,0.0,6.0,1.0,Neblina,Urbana
+60,2019-07-21,El Oro,Machala,Volcamiento,No respetar seniales,Leve,0.0,7.0,1.0,Lluvioso,Perimetral
+61,2019-12-15,El Oro,Pasaje,Choque frontal,Mal estado de la via,Leve,0.0,0.0,3.0,Neblina,Rural
+62,2019-06-01,Manabi,El Carmen,Atropello,Distraccion del conductor,Leve,0.0,2.0,16.0,Nublado,Rural
+63,2019-02-14,Los Rios,Vinces,Atropello,Distraccion del conductor,Grave,2.0,4.0,4.0,Soleado,Autopista
+64,2022-07-10,Guayas,Guayaquil,Caida de ocupante,Mal estado de la via,Leve,0.0,7.0,2.0,Soleado,Rural
+65,2023-11-30,El Oro,Santa Rosa,Rozamiento,No respetar seniales,Leve,0.0,0.0,1.0,Nublado,Secundaria
+66,2023-10-28,Manabi,El Carmen,Choque con objeto fijo,,Leve,0.0,7.0,3.0,Nublado,Rural
+67,2019-08-10,Guayas,Daule,Volcamiento,Fallas mecanicas,Leve,0.0,0.0,3.0,Soleado,Autopista
+68,2021-10-05,El Oro,Machala,Choque frontal,,Grave,2.0,1.0,3.0,Lluvioso,
+69,2022-06-14,Manabi,El Carmen,Atropello,Cansancio del conductor,Leve,0.0,5.0,4.0,Soleado,Perimetral
+70,2023-10-03,El Oro,Huaquillas,Choque frontal,Estado de embriaguez,Fatal,2.0,3.0,3.0,Lluvioso,Urbana
+71,2020-11-03,Guayas,Daule,Choque con objeto fijo,No respetar seniales,Grave,0.0,3.0,2.0,Soleado,Rural
+72,2022-04-20,El Oro,Santa Rosa,Choque frontal,Distraccion del conductor,Leve,0.0,2.0,2.0,Lluvioso,Rural
+73,2019-03-30,El Oro,Zaruma,Atropello,Estado de embriaguez,Leve,,6.0,4.0,Neblina,Secundaria
+74,2022-07-20,Guayas,Duran,Rozamiento,Exceso de velocidad,Grave,0.0,6.0,4.0,Nublado,Secundaria
+75,2021-07-13,Los Rios,Quevedo,Volcamiento,Cansancio del conductor,Grave,2.0,7.0,1.0,Nublado,Perimetral
+76,2019-07-10,Los Rios,Vinces,Choque frontal,Exceso de velocidad,Grave,1.0,1.0,3.0,Nublado,Urbana
+77,2020-08-12,Manabi,Jipijapa,Atropello,Fallas mecanicas,Grave,,8.0,4.0,Nublado,Urbana
+78,2023-09-27,Guayas,Duran,Choque con objeto fijo,Distraccion del conductor,Leve,0.0,3.0,1.0,Soleado,Perimetral
+79,2023-02-26,El Oro,Machala,Choque frontal,Cansancio del conductor,Leve,,4.0,3.0,Lluvioso,Rural
+80,2019-04-12,Los Rios,Babahoyo,Atropello,Exceso de velocidad,Leve,0.0,5.0,3.0,Neblina,Secundaria
+81,2019-04-04,Los Rios,Quevedo,Volcamiento,Mal estado de la via,Fatal,4.0,6.0,1.0,Soleado,Autopista
+82,2021-10-21,Guayas,Duran,Choque con objeto fijo,No respetar seniales,Grave,0.0,3.0,15.0,Nublado,Rural
+83,2019-08-24,Guayas,Samborondon,Choque frontal,Cansancio del conductor,Leve,0.0,0.0,1.0,Nublado,Autopista
+84,2023-11-18,Manabi,Chone,Caida de ocupante,Estado de embriaguez,Leve,0.0,7.0,1.0,Nublado,Perimetral
+85,2020-04-28,Manabi,Portoviejo,Choque lateral,Fallas mecanicas,Leve,0.0,2.0,2.0,Nublado,Rural
+86,2022-10-26,Manabi,Jipijapa,Caida de ocupante,Mal estado de la via,Leve,0.0,2.0,2.0,Nublado,Perimetral
+87,2019-04-27,El Oro,Santa Rosa,Choque con objeto fijo,,Grave,0.0,7.0,3.0,Nublado,Urbana
+88,2022-08-27,Guayas,Daule,Atropello,Exceso de velocidad,Grave,2.0,1.0,4.0,Neblina,Secundaria
+89,2019-11-22,Manabi,Chone,Atropello,Estado de embriaguez,Fatal,1.0,5.0,,Nublado,Secundaria
+90,2023-11-24,Los Rios,Quevedo,Atropello,Distraccion del conductor,Leve,0.0,5.0,3.0,Soleado,Secundaria
+91,2023-07-24,Manabi,Manta,Caida de ocupante,Mal estado de la via,Leve,0.0,4.0,4.0,Soleado,Autopista
+92,2023-09-26,Los Rios,Babahoyo,Rozamiento,No respetar seniales,Grave,2.0,5.0,3.0,Soleado,Autopista
+93,2022-06-04,El Oro,Santa Rosa,Choque con objeto fijo,Cansancio del conductor,Grave,2.0,6.0,2.0,Neblina,Perimetral
+94,2023-07-31,Manabi,Manta,Choque con objeto fijo,Mal estado de la via,Grave,2.0,7.0,4.0,Lluvioso,Rural
+95,2019-07-07,El Oro,Pasaje,Choque con objeto fijo,Mal estado de la via,Grave,0.0,5.0,1.0,Neblina,Perimetral
+96,2023-09-15,El Oro,Santa Rosa,Choque con objeto fijo,Exceso de velocidad,Leve,0.0,,3.0,Lluvioso,Urbana
+97,2022-01-28,Manabi,Jipijapa,Rozamiento,,Leve,,7.0,10.0,Neblina,Rural
+98,2022-05-07,Guayas,Duran,Choque frontal,,Leve,0.0,3.0,4.0,Lluvioso,Perimetral
+99,2021-12-13,Manabi,Jipijapa,Rozamiento,Distraccion del conductor,Leve,0.0,0.0,4.0,Soleado,
+100,2023-04-30,Los Rios,Mocache,Caida de ocupante,,Leve,0.0,0.0,3.0,Nublado,Urbana
+101,2023-05-09,Manabi,El Carmen,Choque frontal,No respetar seniales,Leve,,8.0,4.0,Nublado,
+102,2021-01-01,Manabi,Portoviejo,Choque con objeto fijo,Fallas mecanicas,Grave,0.0,0.0,4.0,Nublado,Autopista
+103,2023-06-21,El Oro,Zaruma,Atropello,Estado de embriaguez,Leve,0.0,5.0,4.0,Soleado,Autopista
+104,2020-12-20,Los Rios,Vinces,Choque frontal,Cansancio del conductor,Leve,,2.0,1.0,Nublado,Perimetral
+105,2022-10-20,Los Rios,Vinces,Choque frontal,Exceso de velocidad,Fatal,3.0,0.0,3.0,Lluvioso,Secundaria
+106,2022-03-21,Guayas,Daule,Rozamiento,Distraccion del conductor,Leve,0.0,5.0,1.0,Nublado,Urbana
+107,2020-03-15,Los Rios,Mocache,Atropello,Distraccion del conductor,Leve,0.0,4.0,2.0,Neblina,Perimetral
+108,2022-01-31,Manabi,Jipijapa,Atropello,Distraccion del conductor,Grave,0.0,1.0,4.0,Nublado,Urbana
+109,2022-02-08,Manabi,Jipijapa,Atropello,Estado de embriaguez,Leve,0.0,2.0,1.0,Neblina,
+110,2022-08-08,Manabi,Portoviejo,Volcamiento,Exceso de velocidad,Leve,0.0,1.0,4.0,Neblina,Autopista
+111,2020-09-14,El Oro,Pasaje,Choque lateral,,Leve,0.0,8.0,2.0,Nublado,Rural
+112,2019-07-11,Manabi,Jipijapa,Caida de ocupante,Cansancio del conductor,Leve,0.0,8.0,3.0,Lluvioso,Secundaria
+113,2021-05-03,Manabi,Jipijapa,Caida de ocupante,Distraccion del conductor,Fatal,2.0,5.0,1.0,Soleado,Secundaria
+114,2021-08-09,Los Rios,Quevedo,Atropello,,Grave,2.0,4.0,4.0,Lluvioso,Perimetral
+115,2019-10-16,El Oro,Machala,Choque frontal,Exceso de velocidad,Grave,2.0,5.0,3.0,Nublado,Rural
+116,2021-10-15,Los Rios,Babahoyo,Choque frontal,Estado de embriaguez,Fatal,5.0,2.0,3.0,Neblina,Autopista
+117,2023-10-02,Los Rios,Babahoyo,Volcamiento,Estado de embriaguez,Grave,0.0,,3.0,Lluvioso,Urbana
+118,2023-08-18,El Oro,Zaruma,Caida de ocupante,Estado de embriaguez,Leve,0.0,6.0,2.0,Soleado,Autopista
+119,2023-01-01,Manabi,Chone,Choque con objeto fijo,Exceso de velocidad,Fatal,1.0,5.0,2.0,Neblina,
+120,2023-08-24,Los Rios,Mocache,Rozamiento,Distraccion del conductor,Leve,0.0,8.0,3.0,Neblina,Secundaria
+121,2021-08-29,El Oro,Santa Rosa,Caida de ocupante,Cansancio del conductor,Grave,1.0,5.0,4.0,Lluvioso,Secundaria
+122,2020-01-26,Guayas,Guayaquil,Volcamiento,,Fatal,5.0,8.0,4.0,Nublado,Urbana
+123,2022-02-22,Los Rios,Ventanas,Caida de ocupante,,Leve,0.0,3.0,4.0,Neblina,Rural
+124,2021-09-18,Los Rios,Quevedo,Choque lateral,Fallas mecanicas,Leve,0.0,2.0,3.0,Nublado,Secundaria
+125,2019-09-07,El Oro,Zaruma,Caida de ocupante,Fallas mecanicas,Leve,0.0,4.0,4.0,Neblina,Autopista
+126,2020-07-09,Los Rios,Mocache,Caida de ocupante,Estado de embriaguez,Leve,0.0,2.0,1.0,Nublado,Secundaria
+127,2019-01-11,Manabi,Jipijapa,Choque lateral,Cansancio del conductor,Grave,0.0,3.0,2.0,Neblina,Rural
+128,2021-05-05,Los Rios,Quevedo,Choque frontal,Fallas mecanicas,Fatal,4.0,4.0,1.0,Neblina,Rural
+129,2023-10-09,Los Rios,Mocache,Volcamiento,Estado de embriaguez,Leve,0.0,25.0,3.0,Nublado,Rural
+130,2019-12-26,Manabi,Jipijapa,Choque con objeto fijo,Mal estado de la via,Leve,0.0,5.0,12.0,Neblina,Rural
+131,2023-03-24,Los Rios,Ventanas,Atropello,,Leve,0.0,1.0,2.0,Nublado,Perimetral
+132,2022-08-01,Guayas,Milagro,Atropello,Cansancio del conductor,Leve,0.0,5.0,1.0,Lluvioso,Urbana
+133,2023-04-10,Manabi,Manta,Caida de ocupante,Mal estado de la via,Leve,0.0,7.0,3.0,Soleado,Rural
+134,2023-10-16,Los Rios,Mocache,Volcamiento,Mal estado de la via,Leve,0.0,5.0,1.0,Soleado,Autopista
+135,2023-01-21,Manabi,Portoviejo,Volcamiento,,Fatal,5.0,8.0,2.0,Nublado,Autopista
+136,2019-03-06,Guayas,Milagro,Volcamiento,,Leve,0.0,,3.0,Lluvioso,Perimetral
+137,2019-09-30,Manabi,Chone,Choque frontal,Cansancio del conductor,Leve,0.0,6.0,4.0,Lluvioso,Secundaria
+138,2021-08-01,Los Rios,Ventanas,Choque lateral,Estado de embriaguez,Grave,2.0,3.0,3.0,Nublado,Rural
+139,2022-05-01,Manabi,Portoviejo,Volcamiento,No respetar seniales,Leve,0.0,,4.0,Soleado,Urbana
+140,2022-05-09,Manabi,Chone,Choque lateral,Cansancio del conductor,Fatal,1.0,3.0,1.0,Nublado,Secundaria
+141,2023-05-29,Manabi,Jipijapa,Atropello,Distraccion del conductor,Fatal,5.0,4.0,2.0,Neblina,Perimetral
+142,2022-02-25,Los Rios,Vinces,Volcamiento,Fallas mecanicas,Leve,0.0,6.0,2.0,Lluvioso,Urbana
+143,2021-02-11,Los Rios,Mocache,Rozamiento,No respetar seniales,Leve,0.0,3.0,4.0,Soleado,
+144,2023-03-10,Guayas,Samborondon,Choque lateral,No respetar seniales,Leve,0.0,8.0,3.0,Lluvioso,Urbana
+145,2019-07-21,Los Rios,Vinces,Choque con objeto fijo,Mal estado de la via,Leve,0.0,8.0,4.0,Nublado,Perimetral
+146,2019-11-09,Manabi,Manta,Atropello,Mal estado de la via,Leve,0.0,,14.0,Lluvioso,Autopista
+147,2019-12-11,Los Rios,Ventanas,Choque lateral,Cansancio del conductor,Grave,2.0,7.0,3.0,Lluvioso,Perimetral
+148,2019-10-09,Los Rios,Quevedo,Choque frontal,Exceso de velocidad,Leve,0.0,8.0,1.0,Lluvioso,Perimetral
+149,2023-01-19,Guayas,Milagro,Rozamiento,Exceso de velocidad,Leve,0.0,7.0,14.0,Nublado,
+150,2020-07-01,Guayas,Samborondon,Choque frontal,Mal estado de la via,Leve,0.0,6.0,1.0,Nublado,Autopista
+151,2022-02-05,Los Rios,Vinces,Choque frontal,Exceso de velocidad,Fatal,4.0,3.0,1.0,Soleado,Perimetral
+152,2021-08-31,Manabi,Chone,Choque frontal,Fallas mecanicas,Leve,,6.0,1.0,Soleado,Secundaria
+153,2020-09-04,El Oro,Pasaje,Rozamiento,Cansancio del conductor,Leve,0.0,0.0,1.0,Lluvioso,Urbana
+154,2019-04-20,Los Rios,Babahoyo,Volcamiento,,Leve,0.0,8.0,2.0,Lluvioso,Autopista
+155,2020-01-16,Guayas,Duran,Caida de ocupante,Mal estado de la via,Fatal,3.0,6.0,3.0,Neblina,Perimetral
+156,2021-01-08,Guayas,Guayaquil,Choque frontal,No respetar seniales,Leve,0.0,4.0,1.0,Soleado,Autopista
+157,2019-07-10,El Oro,Zaruma,Rozamiento,Exceso de velocidad,Grave,1.0,4.0,4.0,Nublado,Secundaria
+158,2021-10-06,Los Rios,Quevedo,Choque frontal,No respetar seniales,Grave,0.0,6.0,2.0,Lluvioso,Autopista
+159,2019-10-05,Los Rios,Ventanas,Choque frontal,Mal estado de la via,Leve,0.0,4.0,3.0,Neblina,Urbana
+160,2020-10-15,El Oro,Santa Rosa,Caida de ocupante,Estado de embriaguez,Grave,2.0,5.0,2.0,Neblina,Perimetral
+161,2019-02-25,Manabi,El Carmen,Caida de ocupante,No respetar seniales,Leve,0.0,4.0,1.0,Lluvioso,Secundaria
+162,2023-06-05,Los Rios,Vinces,Choque frontal,Distraccion del conductor,Grave,1.0,1.0,4.0,Neblina,Perimetral
+163,2019-08-12,Los Rios,Quevedo,Caida de ocupante,Fallas mecanicas,Grave,2.0,8.0,4.0,Nublado,Urbana
+164,2020-06-13,Manabi,Manta,Rozamiento,Exceso de velocidad,Leve,0.0,0.0,4.0,Lluvioso,
+165,2020-12-14,Los Rios,Ventanas,Atropello,Exceso de velocidad,Leve,0.0,7.0,10.0,Neblina,Rural
+166,2020-12-03,Manabi,Portoviejo,Caida de ocupante,Exceso de velocidad,Grave,2.0,7.0,4.0,Lluvioso,
+167,2019-03-01,Manabi,Jipijapa,Choque lateral,Cansancio del conductor,Leve,0.0,8.0,4.0,Neblina,Perimetral
+168,2019-08-22,Los Rios,Ventanas,Caida de ocupante,Distraccion del conductor,Leve,0.0,3.0,1.0,Neblina,Perimetral
+169,2019-06-23,El Oro,Pasaje,Atropello,Distraccion del conductor,Leve,0.0,6.0,4.0,Soleado,Secundaria
+170,2022-02-10,Manabi,Manta,Volcamiento,Estado de embriaguez,Grave,1.0,5.0,4.0,Nublado,Rural
+171,2021-04-17,Manabi,El Carmen,Volcamiento,Mal estado de la via,Grave,0.0,7.0,1.0,Neblina,Perimetral
+172,2022-01-30,Los Rios,Mocache,Choque frontal,Estado de embriaguez,Leve,0.0,0.0,1.0,Soleado,Perimetral
+173,2020-09-01,El Oro,Machala,Volcamiento,Fallas mecanicas,Leve,0.0,5.0,4.0,Nublado,Rural
+174,2019-12-06,El Oro,Zaruma,Choque lateral,Fallas mecanicas,Leve,0.0,1.0,2.0,Lluvioso,Perimetral
+175,2019-10-05,Manabi,El Carmen,Choque frontal,Fallas mecanicas,Grave,0.0,8.0,3.0,Nublado,Urbana
+176,2021-02-07,Manabi,El Carmen,Choque frontal,Mal estado de la via,Leve,0.0,2.0,2.0,Soleado,Perimetral
+177,2023-10-08,Los Rios,Babahoyo,Choque con objeto fijo,Estado de embriaguez,Grave,2.0,5.0,1.0,Neblina,Autopista
+178,2019-04-05,Manabi,Portoviejo,Caida de ocupante,Estado de embriaguez,Leve,0.0,3.0,3.0,Neblina,Urbana
+179,2019-07-11,Guayas,Milagro,Atropello,Distraccion del conductor,Fatal,1.0,35.0,2.0,Soleado,Autopista
+180,2020-03-13,El Oro,Huaquillas,Choque frontal,Exceso de velocidad,Leve,0.0,,3.0,Lluvioso,Urbana
+181,2021-02-23,Manabi,Portoviejo,Caida de ocupante,No respetar seniales,Leve,0.0,,3.0,Soleado,Rural
+182,2022-08-24,Guayas,Daule,Volcamiento,,Leve,0.0,4.0,2.0,Nublado,Secundaria
+183,2023-06-09,Manabi,Manta,Choque lateral,Distraccion del conductor,Fatal,2.0,7.0,1.0,Nublado,Autopista
+184,2023-05-25,Guayas,Daule,Volcamiento,Estado de embriaguez,Fatal,2.0,4.0,3.0,Neblina,Urbana
+185,2022-10-30,Guayas,Daule,Choque con objeto fijo,Mal estado de la via,Leve,0.0,1.0,3.0,Neblina,Secundaria
+186,2021-05-17,Guayas,Samborondon,Choque frontal,Cansancio del conductor,Grave,0.0,0.0,1.0,Lluvioso,Perimetral
+187,2020-09-27,El Oro,Huaquillas,Caida de ocupante,Fallas mecanicas,Grave,0.0,8.0,2.0,Lluvioso,Urbana
+188,2019-10-09,Guayas,Guayaquil,Choque lateral,Exceso de velocidad,Grave,,6.0,1.0,Neblina,
+189,2021-12-08,El Oro,Machala,Atropello,Distraccion del conductor,Leve,0.0,4.0,3.0,Soleado,Autopista
+190,2020-04-12,Los Rios,Mocache,Choque frontal,Mal estado de la via,Leve,0.0,,2.0,Soleado,Urbana
+191,2020-04-04,Guayas,Milagro,Choque lateral,Cansancio del conductor,Leve,0.0,7.0,2.0,Neblina,Perimetral
+192,2021-08-10,El Oro,Santa Rosa,Choque con objeto fijo,Estado de embriaguez,Fatal,3.0,5.0,1.0,Nublado,
+193,2023-02-09,El Oro,Zaruma,Choque con objeto fijo,Estado de embriaguez,Fatal,1.0,0.0,3.0,Lluvioso,Rural
+194,2020-02-25,Manabi,Jipijapa,Choque lateral,Cansancio del conductor,Grave,0.0,0.0,15.0,Neblina,Urbana
+195,2022-04-04,Los Rios,Babahoyo,Rozamiento,Distraccion del conductor,Leve,0.0,2.0,2.0,Lluvioso,Urbana
+196,2020-10-13,Los Rios,Vinces,Atropello,Estado de embriaguez,Leve,,0.0,2.0,Lluvioso,Autopista
+197,2021-08-06,Guayas,Milagro,Choque con objeto fijo,Fallas mecanicas,Grave,0.0,1.0,4.0,Soleado,Autopista
+198,2021-03-22,Guayas,Duran,Choque frontal,Cansancio del conductor,Fatal,2.0,4.0,1.0,Nublado,Autopista
+199,2023-08-28,El Oro,Pasaje,Choque lateral,Exceso de velocidad,Fatal,,6.0,2.0,Lluvioso,
+200,2023-07-16,Los Rios,Quevedo,Choque frontal,,Grave,1.0,1.0,,Nublado,Perimetral
+201,2020-07-17,Guayas,Milagro,Volcamiento,Distraccion del conductor,Grave,0.0,0.0,4.0,Lluvioso,Rural
+202,2020-05-25,Guayas,Duran,Choque con objeto fijo,No respetar seniales,Leve,0.0,3.0,4.0,Soleado,Secundaria
+203,2022-05-07,Los Rios,Quevedo,Choque frontal,No respetar seniales,Leve,0.0,5.0,3.0,Nublado,
+204,2022-03-25,Guayas,Samborondon,Atropello,Exceso de velocidad,Fatal,4.0,3.0,2.0,Lluvioso,Rural
+205,2022-01-15,Manabi,Chone,Choque lateral,No respetar seniales,Grave,0.0,5.0,3.0,Neblina,Perimetral
+206,2019-05-02,Guayas,Guayaquil,Choque lateral,Distraccion del conductor,Leve,0.0,37.0,1.0,Lluvioso,Autopista
+207,2023-06-10,Guayas,Samborondon,Caida de ocupante,No respetar seniales,Leve,0.0,5.0,4.0,Nublado,Perimetral
+208,2021-03-12,Manabi,Jipijapa,Choque frontal,No respetar seniales,Grave,2.0,5.0,2.0,Lluvioso,Secundaria
+209,2023-08-10,El Oro,Santa Rosa,Volcamiento,Distraccion del conductor,Leve,0.0,3.0,4.0,Soleado,Urbana
+210,2021-10-06,El Oro,Huaquillas,Atropello,Estado de embriaguez,Leve,0.0,1.0,,Neblina,Perimetral
+211,2019-11-26,Guayas,Guayaquil,Rozamiento,Exceso de velocidad,Leve,0.0,3.0,1.0,Soleado,Perimetral
+212,2021-04-18,El Oro,Zaruma,Caida de ocupante,,Grave,2.0,7.0,2.0,Nublado,Rural
+213,2021-09-10,El Oro,Pasaje,Choque frontal,Distraccion del conductor,Grave,1.0,0.0,4.0,Soleado,Secundaria
+214,2021-03-04,Manabi,Manta,Atropello,Cansancio del conductor,Leve,0.0,4.0,1.0,Neblina,Secundaria
+215,2023-07-14,El Oro,Zaruma,Volcamiento,Exceso de velocidad,Grave,0.0,4.0,3.0,Lluvioso,Autopista
+216,2021-10-25,Guayas,Duran,Rozamiento,Estado de embriaguez,Leve,0.0,8.0,4.0,Lluvioso,Urbana
+217,2023-09-05,Guayas,Duran,Atropello,Cansancio del conductor,Leve,0.0,7.0,2.0,Nublado,Rural
+218,2021-04-28,Guayas,Daule,Choque lateral,Mal estado de la via,Grave,0.0,6.0,15.0,Soleado,Urbana
+219,2020-07-18,Guayas,Samborondon,Choque lateral,Estado de embriaguez,Grave,2.0,4.0,4.0,Neblina,
+220,2020-09-28,Guayas,Milagro,Choque con objeto fijo,,Grave,1.0,5.0,4.0,Neblina,Autopista
+55,2021-11-08,Manabi,Chone,Volcamiento,Estado de embriaguez,Grave,1.0,8.0,1.0,Neblina,Autopista
+45,2019-07-30,El Oro,Machala,Rozamiento,Cansancio del conductor,Leve,0.0,2.0,2.0,Nublado,Perimetral
+44,2022-05-07,El Oro,Santa Rosa,Choque frontal,Mal estado de la via,Fatal,3.0,1.0,2.0,Lluvioso,Secundaria
+7,2021-02-27,Manabi,El Carmen,Rozamiento,Cansancio del conductor,Leve,0.0,2.0,1.0,Neblina,Urbana
+56,2020-07-01,Los Rios,Babahoyo,Atropello,Estado de embriaguez,Fatal,2.0,2.0,2.0,Nublado,Secundaria
+15,2021-05-16,Manabi,Jipijapa,Caida de ocupante,Fallas mecanicas,Leve,0.0,7.0,13.0,Neblina,Autopista
+9,2020-05-05,El Oro,Machala,Choque lateral,Distraccion del conductor,Grave,2.0,3.0,1.0,Soleado,Autopista
+20,2021-09-27,Manabi,Chone,Choque con objeto fijo,Cansancio del conductor,Leve,0.0,1.0,3.0,Soleado,Secundaria
+48,2021-07-11,Guayas,Duran,Volcamiento,,Leve,0.0,3.0,1.0,Nublado,
+29,2022-10-09,El Oro,Santa Rosa,Choque lateral,Mal estado de la via,Grave,1.0,3.0,2.0,Lluvioso,Rural
+50,2022-12-04,Manabi,El Carmen,Atropello,Estado de embriaguez,Leve,0.0,2.0,3.0,Neblina,Autopista
+21,2022-02-22,Guayas,Guayaquil,Choque frontal,Cansancio del conductor,Grave,2.0,,3.0,Soleado,Perimetral
